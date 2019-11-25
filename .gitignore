@@ -1,0 +1,3 @@
+node_modules
+git remote add origin https://github.com/samuel9905/contact-us.git
+git push -u origin master
