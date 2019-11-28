@@ -1,10 +1,12 @@
+/*Header*/
 .header{
     background-color: #89abe3ff;
+}
+/* Body*/
+body{
+    background-color: #fcf6f5ff;
 }
 .contact{
     color:blueviolet;
     margin-left: 50%;
-}
-body{
-    background-color: #fcf6f5ff;
 }

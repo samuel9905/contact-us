@@ -1,3 +1,9 @@
+/*The header */
+.header{
+    width: "36"; 
+    height: "36";
+}
+
 .center{
    margin-left:10%;
 }
@@ -28,11 +34,6 @@
 .imm{
     padding-left: 3%;
     padding-top: 2%;
-}
-.header{
-    width: "36"; 
-    height: "36";
-
 }
 .wellcome{
     text-align: center;
